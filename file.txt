@@ -2,3 +2,7 @@ Apple
 Orange
 Rambutan
 DragonFruit
+Durian
+Mango
+Lychee
+
