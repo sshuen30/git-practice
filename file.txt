@@ -11,3 +11,5 @@ Banana
 Watermelon
 Guava
 Pear
+Papaya
+Strawberry
