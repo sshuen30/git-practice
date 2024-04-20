@@ -9,4 +9,5 @@ Jackfruit
 Pineapple
 Banana
 Watermelon
-
+Guava
+Pear
