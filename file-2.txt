@@ -1,2 +1,4 @@
 snoopy
 doraemon
+transformer
+Steam
