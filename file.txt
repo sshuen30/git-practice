@@ -7,4 +7,6 @@ Mango
 Lychee
 Jackfruit
 Pineapple
+Banana
+Watermelon
 
