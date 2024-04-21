@@ -3,5 +3,7 @@ git commit -m "message"
 git push origin master
 git pull origin master
 git branch new-feature
+git branch -D new-feature
 git checkout new-feature
+git rebase master
 
