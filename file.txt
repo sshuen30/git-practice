@@ -20,3 +20,4 @@ cherry
 grapes
 banana
 avocado
+pomegranate
