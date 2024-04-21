@@ -16,4 +16,7 @@ Strawberry
 Honeydew
 blueberry
 rockmelon
-
+cherry
+grapes
+banana
+avocado
