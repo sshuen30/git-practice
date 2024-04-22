@@ -11,7 +11,7 @@ class Rectangle:
 
 
 # Create an instance of the Rectangle class
-rect = Rectangle(7, 3)
+rect = Rectangle(10, 3)
 
 # Calculate and print the area and perimeter of the rectangle
 print("Area:", rect.area())
