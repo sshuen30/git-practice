@@ -25,3 +25,5 @@ raspberry
 kiwi
 lemon 
 lime    
+wasabi
+
