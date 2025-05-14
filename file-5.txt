@@ -1,2 +1,2 @@
-The Chip War
-The Phoenix project
+palantir, nvidia, google, amazon
+
