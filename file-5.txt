@@ -1,1 +1,1 @@
-palantir, nvidia
+palantir, nvidia, google, amazon
