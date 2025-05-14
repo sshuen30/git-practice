@@ -1,2 +1,2 @@
 palantir, nvidia, google, amazon
-
+DBS, UOB, Meta
