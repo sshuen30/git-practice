@@ -1,2 +1,4 @@
 palantir, nvidia, google, amazon
 DBS, UOB, Meta
+adding more tech stocks
+adding more REIT stocks
